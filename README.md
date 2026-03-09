@@ -1,2 +1,2 @@
-# The-Flux-Agency-Releases
-For putting releases of The Flux Agency for easy sharing
+# Misuploaded-Releases
+For putting releases of Misuploaded for easy sharing
